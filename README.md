@@ -67,16 +67,18 @@ The task included:
 ## Visualizations
 ### 1. Top 5 Popular Dishes
 A bar plot showing the most frequently ordered dishes.
+![image](https://github.com/user-attachments/assets/213dcbb5-c78d-412d-9bb3-e567302dec7b)
+
 
 ### 2. Cooking Duration vs. Order Amount
 A scatter plot highlighting the relationship between cooking session duration and order amount.
+![image](https://github.com/user-attachments/assets/3a50a563-464f-4f05-8a8f-e51c5a5e8fd5)
+
 
 ### 3. Orders by Age Group
 A bar plot showcasing the distribution of orders across different age groups.
+![image](https://github.com/user-attachments/assets/83834bfa-2ca7-4d40-8559-1bc6fe93d3a9)
+
 
 ## Conclusion
 The analysis provided actionable insights into user behavior and preferences. By leveraging these findings, the business can make data-driven decisions to improve customer satisfaction and operational efficiency.
-
-## Files Generated
-- **Visualizations**: Various plots summarizing key insights.
-- **Summary Report**: Saved as `summary_report.txt` for detailed findings and recommendations.
