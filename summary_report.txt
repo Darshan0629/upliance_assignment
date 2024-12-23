@@ -1,0 +1,28 @@
+
+Summary of Findings:
+1. Popular Dishes:
+   - The top 5 dishes based on the number of orders are:
+     Spaghetti, Grilled Chicken, Caesar Salad, Pancakes, Veggie Burger
+
+2. Relationship between Cooking Sessions and Orders:
+   - The correlation between cooking session duration and order amount is 0.65.
+
+3. Demographic Factors:
+   - Age group 25-35 places the highest number of orders.
+
+Business Recommendations:
+- Promote the most popular dishes in marketing campaigns.
+- Focus on users in the age group 25-35 for targeted promotions.
+- Explore shorter cooking durations for efficiency without compromising quality.
+
+Predictive Analysis:
+- The linear regression model predicts the order amount based on the cooking session duration.
+- Evaluation Metrics:
+  - Mean Squared Error (MSE): 9.29
+  - R-squared (R2): -1.52
+
+Example Prediction:
+- Predicted Order Amount for a 45-minute cooking session: $12.62
+- Predicted Order Amount for a 25-minute cooking session: $9.83
+- Predicted Order Amount for a 35-minute cooking session: $11.22
+
